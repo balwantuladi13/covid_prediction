@@ -1,0 +1,9 @@
+gunicorn
+pandas
+datetime
+flask
+matplotlib
+scipy
+sklearn
+numpy
+python-math
